@@ -1,0 +1,1 @@
+p=(int*)malloc(sizeof(int));

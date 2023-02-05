@@ -1,0 +1,10 @@
+1. WAP to contradinate two string by overloading binary operator'+'. (2012.Q3.a)
+2. WAP a cpp program to add two time object showing the example of passing object function. (2012.Q7)
+3. WAP to add 2 number using inline function.
+4. WAP to add two times in hour and minutes illustrating passing object as function arguments.
+5. WAP to calculate area of rectangle using default arguments.
+6. WAP to overload a function named power which calculate (a+b)*y if two or three arguments are passed 	
+   respectively.
+7. WAP to add sum of 2 number using inline function.
+8. WAP to overload a function area()which calculate and return are of the circle and rectangle.
+9. WAP to find perimeter of square, rectangle and circle using function overloading. 
